@@ -1,0 +1,11 @@
+                                                                                  Punto 3: Decripcion del proceso.
+
+ Para clonar el repositorio de mi compañera Mili Torres, se necesito que me agregue como colaboradora. 
+
+ Al poder acceder a su repositorio, copie el link del mismo. 
+
+ Entre al GIT BASH del escritorio de mi PC usando git clone + el link del repositorio que deseo clonar (el de mi compañera), se crea una copia del mismo en mi dispositivo local.
+
+ Al tener acceso a su repositorio pude agregar comentarios sobre el doc.txt de mi compañera.
+
+ Una vez hecho esto solo resto publicar los cambios usando los comandos: git add . ; git commit -m "comentario de Louly sobre el documento de Mili" ; git push origin main (esta vez no usamos masters debido a que como copiamos desde el Github automaticamente nos ponia el archivo con "main")
